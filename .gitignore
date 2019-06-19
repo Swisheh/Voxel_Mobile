@@ -4,6 +4,8 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/ParadoxNotion
+Assets/uMMORPG
 
 # Visual Studio cache directory
 .vs/
